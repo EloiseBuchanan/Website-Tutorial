@@ -147,6 +147,12 @@ input, textarea {
     padding: 6px 12px;
 }
 
+.button__contact {
+    display: flex;
+    justify-content: center;
+}
+
+
 /*
 FOOTER
 */
@@ -237,7 +243,6 @@ footer {
         margin-bottom: 24px;
     }
 
-
-
+  
 
 }
